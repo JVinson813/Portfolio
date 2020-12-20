@@ -40,8 +40,9 @@ input[type=text], select, textarea {
   }
 
  #headshot {
-     width: 300px;
+     width: 500px;
      margin-left: 75%;
+     height: 400px;
     
  }
 
